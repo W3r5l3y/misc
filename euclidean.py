@@ -12,4 +12,4 @@ while r > 0:
     r = x % y
 
 print(x, y, r)
-print("GCD is", y)
+print(f"GCD is \033[95m{y}\033[0m")
