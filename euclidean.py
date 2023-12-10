@@ -1,4 +1,4 @@
-x, y = 101, 203
+x, y = 3457, 4669
 if x < y:
     replace = x
     x = y

@@ -16,7 +16,7 @@ class BColors:
 
 
 # INPUT NUMBERS HERE IN FORM x, y
-x, y = 101, 203
+x, y = 3457, 4669
 
 
 def find_gcd(x, y):
